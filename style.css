@@ -149,7 +149,6 @@ section{
     object-fit:cover;
     border:6px solid #38bdf8;
     box-shadow:0 0 40px rgba(56,189,248,.35);
-    transition:.4s;
 }
 
 .hero-image img:hover{
