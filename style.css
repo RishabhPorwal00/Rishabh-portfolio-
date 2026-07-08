@@ -143,8 +143,8 @@ section{
 }
 
 .hero-image img{
-    width:320px;
-    height:320px;
+    width:260px;
+    height:260px;
     border-radius:50%;
     object-fit:cover;
     border:6px solid #38bdf8;
